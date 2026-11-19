@@ -4,7 +4,7 @@ Back-office web app for operations staff to view orders and issue partial or ful
 
 | Reference            | Link                                                              |
 | :------------------- | :---------------------------------------------------------------- |
-| Live Demo            | _(add GitHub Pages / Vercel URL after deploying)_                 |
+| Live Demo            | https://zus-interview-assignment.vercel.app                       |
 | Technical Notes      | [DOCS.md](./DOCS.md)                                              |
 
 ## 1. Application Summary
